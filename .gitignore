@@ -1,0 +1,17 @@
+node_modules
+dist
+intermediate
+executables
+.env
+.env.goerli
+.env.mumbai
+coverage
+coverage.json
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+#Slither files
+slither-report.md
